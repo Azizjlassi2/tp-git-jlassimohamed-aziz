@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 "1er ligne de notes"  
+=======
+"1er ligne de notes" 
+>>>>>>> test
 "Deuxiemme lig,e de notes " 
 "Troisieme ligne (feature) " 
